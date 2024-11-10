@@ -47,9 +47,9 @@ The project uses the **FashionMNIST** dataset, which contains 28x28 grayscale im
 
 ## Installation
 
-To set up the project locally, clone the repository and install the dependencies:
+To set up the project locally, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/visual-concept-learning.git
-cd visual-concept-learning
+git clone https://github.com/shararezr/DeepBeliefNetwork.git
+cd DeepBeliefNetwork
 pip install -r requirements.txt
